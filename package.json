@@ -1,0 +1,8 @@
+{
+  "name": "clevercloud-ga-deployment",
+  "version": "1.0.0",
+  "description": "An example of how to deploy on ClerverCloud using GitHub actions",
+  "repository": "https://github.com/anthonylegoas/clevercloud-ga-deployment.git",
+  "author": "Anthony Le Goas @anthonylegoas",
+  "license": "MIT"
+}
